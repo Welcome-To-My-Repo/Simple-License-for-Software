@@ -2,11 +2,11 @@ This is a simple license for software
 
 (C)opyright Daniel Smith 2018
 
-Verson 0.1
+Verson 0.2
 
-These source files are (C)opyright Daniel Smith. You (the party in
-posession of these source files) are hereby granted free, unlimited
-use of these source files limited only by the following conditions:
+You (the party in possession of these source files) are hereby granted
+free, unlimited use of these source files provided the following
+conditions are satisfied:
 
 1.	When copying and/or distributing these source files in whole
 	or in part, this license MUST be included with them. 
@@ -25,11 +25,11 @@ use of these source files limited only by the following conditions:
 	even at all. I will not be held responsible for any loss
 	or damages that occur in association with these source files.\
 
-4.	Source files ultimately will be compiled into software. The
+4.	Source files ultimately will be compiled into a program. The
 	conditions set forth in this license shall also apply to any
-	software created from these source files.
+	program created from these source files.
 
-5.	If you cannot satisfy the conditions of this license, you
-	relenquish all and any access to these source files and you 
-	must remove all forms of these source files from your 
-	posession.
+5.	If you cannot satisfy the conditions of this license, you 
+	relenquish all rights and access to these source files and you
+	must remove all copies of these source files in any form from
+	your posession.
