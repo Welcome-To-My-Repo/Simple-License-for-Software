@@ -2,7 +2,7 @@ This is a simple license for software
 
 Version 1.1
 
-You (the party in possession of these source files) are hereby granted
+You (the party in possession of these source file(s) are hereby granted
 free, unlimited use of these source files provided the following
 conditions are satisfied:
 
@@ -29,9 +29,9 @@ conditions are satisfied:
 	loss or damages that occur in association with these source
 	files.
 
-5.	Source files ultimately will be compiled into a program. The
-	conditions set forth in this license shall also apply to any
-	program created from these source files.
+5.	The terms of any patent made with these source files shall be
+ 	limited exclusively to the terms of this license.
+
 
 6.	If you cannot satisfy the conditions of this license, you
 	relinquish all rights and access to these source files and you
